@@ -1,2 +1,8 @@
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law.
+
+Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents.
+
+This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
 # AI-Malfunction-Remediation-Under-Mint-to-Logic-Shepherding-Method
 This document establishes prior art for an AI malfunction recovery process leveraging Mint-to Logic™ lifecycle enforcement, reflexive branching, governance seat control, and environment shaping.
